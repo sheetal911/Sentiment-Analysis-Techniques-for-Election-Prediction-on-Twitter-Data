@@ -1,0 +1,2 @@
+# Sentiment-Analysis-Techniques-for-Election-Prediction-on-Twitter-Data
+This project explores sentiment analysis techniques like TextBlob, VADER, and Flair to predict election outcomes using Twitter data. By analyzing tweets about political figures such as Modi Ji and Rahul Gandhi, the project compares the effectiveness of these techniques in gauging public sentiment and their potential in predicting election results.
